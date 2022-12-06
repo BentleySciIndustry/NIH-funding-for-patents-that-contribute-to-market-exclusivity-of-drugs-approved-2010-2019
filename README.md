@@ -1,0 +1,1 @@
+# NIH-funding-for-patents-that-contribute-to-market-exclusivity-of-drugs-approved-2010-2019
