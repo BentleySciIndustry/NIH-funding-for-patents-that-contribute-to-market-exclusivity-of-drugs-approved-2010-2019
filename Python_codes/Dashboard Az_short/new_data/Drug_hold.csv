@@ -1,0 +1,65 @@
+Search__ID,Search_Type,PMID,PUB_YEAR,PROJECT_NUMBER,FY_Start,FY_Last,APY,ACTUAL_PROJECT_YEAR,APY_COST_inf2018,Activity_Code,Institute_Code,Acronym_institute_name,full_institute_name,Compressed Names,Project_Count
+Pasireotide,Drug,27429029,2017,P30CA008748,1999,2021,2017,2017P30CA008748,13442482,P30,CA,NCI,National Cancer Institute,National Cancer Institute,5
+Pasireotide,Drug,26795274,2016,P30CA008748,1999,2021,2016,2016P30CA008748,15856394,P30,CA,NCI,National Cancer Institute,National Cancer Institute,8
+Pasireotide,Drug,26786091,2016,P30CA008748,1999,2021,2016,2016P30CA008748,15856394,P30,CA,NCI,National Cancer Institute,National Cancer Institute,8
+Pasireotide,Drug,25527270,2015,P30CA008748,1999,2021,2015,2015P30CA008748,14212182,P30,CA,NCI,National Cancer Institute,National Cancer Institute,5
+Pasireotide,Drug,24849084,2014,P30CA008748,1999,2021,2014,2014P30CA008748,14112088,P30,CA,NCI,National Cancer Institute,National Cancer Institute,4
+Pasireotide,Drug,22965070,2013,P30CA014520,1999,2020,2013,2013P30CA014520,4988330,P30,CA,NCI,National Cancer Institute,National Cancer Institute,4
+Pasireotide,Drug,22965070,2013,R01CA121115,2009,2013,2013,2013R01CA121115,288074,R01,CA,NCI,National Cancer Institute,National Cancer Institute,1
+Pasireotide,Drug,22965070,2013,R03CA155691,2011,2012,2012,2012R03CA155691,88815,R03,CA,NCI,National Cancer Institute,National Cancer Institute,2
+Pasireotide,Drug,32474957,2020,P30CA016056,1999,2021,2020,2020P30CA016056,5462973,P30,CA,NCI,National Cancer Institute,National Cancer Institute,9
+Pasireotide,Drug,25385439,2014,P30CA016087,1999,2021,2014,2014P30CA016087,3566751,P30,CA,NCI,National Cancer Institute,National Cancer Institute,5
+Pasireotide,Drug,28327907,2017,P30CA016672,1999,2020,2017,2017P30CA016672,11415037,P30,CA,NCI,National Cancer Institute,National Cancer Institute,6
+Pasireotide,Drug,29534939,2018,P30CA022453,1999,2021,2018,2018P30CA022453,3309450,P30,CA,NCI,National Cancer Institute,National Cancer Institute,7
+Pasireotide,Drug,28543567,2017,P30CA030199,1999,2021,2017,2017P30CA030199,4217595,P30,CA,NCI,National Cancer Institute,National Cancer Institute,3
+Pasireotide,Drug,25376618,2015,P30CA076292,1999,2021,2015,2015P30CA076292,3916255,P30,CA,NCI,National Cancer Institute,National Cancer Institute,7
+Pasireotide,Drug,25376618,2015,R25CA174664,2013,2019,2015,2015R25CA174664,221504,R25,CA,NCI,National Cancer Institute,National Cancer Institute,1
+Pasireotide,Drug,25613083,2015,R25CA174664,2013,2019,2015,2015R25CA174664,221504,R25,CA,NCI,National Cancer Institute,National Cancer Institute,1
+Pasireotide,Drug,16223973,2006,R01CA064709,1999,2006,2006,2006R01CA064709,491606,R01,CA,NCI,National Cancer Institute,National Cancer Institute,1
+Pasireotide,Drug,21529145,2011,R37CA071382,2008,2013,2011,2011R37CA071382,343678,R37,CA,NCI,National Cancer Institute,National Cancer Institute,1
+Pasireotide,Drug,19580476,2009,R01CA071382,1999,2005,2005,2005R01CA071382,450775,R01,CA,NCI,National Cancer Institute,National Cancer Institute,1
+Pasireotide,Drug,19580476,2009,R37CA071382,2008,2013,2009,2009R37CA071382,389549,R37,CA,NCI,National Cancer Institute,National Cancer Institute,1
+Pasireotide,Drug,29366679,2018,R01CA183764,2015,2019,2018,2018R01CA183764,348844,R01,CA,NCI,National Cancer Institute,National Cancer Institute,1
+Pasireotide,Drug,23102680,2012,R01CA103830,2004,2015,2012,2012R01CA103830,1145621,R01,CA,NCI,National Cancer Institute,National Cancer Institute,1
+Pasireotide,Drug,23102680,2012,U54CA151668,2010,2014,2012,2012U54CA151668,3036518,U54,CA,NCI,National Cancer Institute,National Cancer Institute,2
+Pasireotide,Drug,25613083,2015,K12CA120780,2007,2020,2015,2015K12CA120780,151670,K12,CA,NCI,National Cancer Institute,National Cancer Institute,1
+Pasireotide,Drug,25613083,2015,K07CA160722,2011,2015,2015,2015K07CA160722,190908,K07,CA,NCI,National Cancer Institute,National Cancer Institute,1
+Pasireotide,Drug,22736724,2012,R01CA151532,2011,2014,2012,2012R01CA151532,752764,R01,CA,NCI,National Cancer Institute,National Cancer Institute,1
+Pasireotide,Drug,27429029,2017,UL1TR002384,2017,2020,2017,2017UL1TR002384,8784456,UL1,TR,NCATS,National Center for Advancing Translational Sciences,National Center for Advancing Translational Sciences,1
+Pasireotide,Drug,25385439,2014,UL1TR000038,2012,2014,2014,2014UL1TR000038,7399909,UL1,TR,NCATS,National Center for Advancing Translational Sciences,National Center for Advancing Translational Sciences,3
+Pasireotide,Drug,31465533,2019,UL1TR002369,2017,2020,2019,2019UL1TR002369,6125564,UL1,TR,NCATS,National Center for Advancing Translational Sciences,National Center for Advancing Translational Sciences,2
+Pasireotide,Drug,31379734,2019,UL1TR002369,2017,2020,2019,2019UL1TR002369,6125564,UL1,TR,NCATS,National Center for Advancing Translational Sciences,National Center for Advancing Translational Sciences,2
+Pasireotide,Drug,22965070,2013,T32GM007215,1999,2018,2013,2013T32GM007215,1357417,T32,GM,NIGMS,National Institute of General Medical Sciences,National Institute of General Medical Sciences,1
+Pasireotide,Drug,22965070,2013,T32GM008692,1999,2020,2013,2013T32GM008692,708551,T32,GM,NIGMS,National Institute of General Medical Sciences,National Institute of General Medical Sciences,2
+Pasireotide,Drug,28543567,2017,R01DK024031,1999,2021,2017,2017R01DK024031,497182,R01,DK,NIDDK,National Institute of Diabetes and Digestive and Kidney Diseases,National Institute of Diabetes and Digestive and Kidney Diseases,1
+Pasireotide,Drug,28543567,2017,P30DK084567,2009,2020,2017,2017P30DK084567,1251403,P30,DK,NIDDK,National Institute of Diabetes and Digestive and Kidney Diseases,National Institute of Diabetes and Digestive and Kidney Diseases,2
+Pasireotide,Drug,28543567,2017,P30DK090728,2010,2019,2017,2017P30DK090728,1214521,P30,DK,NIDDK,National Institute of Diabetes and Digestive and Kidney Diseases,National Institute of Diabetes and Digestive and Kidney Diseases,2
+Pasireotide,Drug,29366679,2018,P30DK084567,2009,2020,2018,2018P30DK084567,1161897,P30,DK,NIDDK,National Institute of Diabetes and Digestive and Kidney Diseases,National Institute of Diabetes and Digestive and Kidney Diseases,2
+Pasireotide,Drug,29023824,2018,P30DK084567,2009,2020,2018,2018P30DK084567,1161897,P30,DK,NIDDK,National Institute of Diabetes and Digestive and Kidney Diseases,National Institute of Diabetes and Digestive and Kidney Diseases,2
+Pasireotide,Drug,29366679,2018,P30DK090728,2010,2019,2018,2018P30DK090728,1197055,P30,DK,NIDDK,National Institute of Diabetes and Digestive and Kidney Diseases,National Institute of Diabetes and Digestive and Kidney Diseases,3
+Pasireotide,Drug,29023824,2018,P30DK090728,2010,2019,2018,2018P30DK090728,1197055,P30,DK,NIDDK,National Institute of Diabetes and Digestive and Kidney Diseases,National Institute of Diabetes and Digestive and Kidney Diseases,3
+Pasireotide,Drug,23668934,2013,R01DK024031,1999,2021,2013,2013R01DK024031,640161,R01,DK,NIDDK,National Institute of Diabetes and Digestive and Kidney Diseases,National Institute of Diabetes and Digestive and Kidney Diseases,1
+Pasireotide,Drug,23172758,2013,R01DK024031,1999,2021,2013,2013R01DK024031,640161,R01,DK,NIDDK,National Institute of Diabetes and Digestive and Kidney Diseases,National Institute of Diabetes and Digestive and Kidney Diseases,1
+Pasireotide,Drug,23668934,2013,P30DK084567,2009,2020,2013,2013P30DK084567,1214485,P30,DK,NIDDK,National Institute of Diabetes and Digestive and Kidney Diseases,National Institute of Diabetes and Digestive and Kidney Diseases,2
+Pasireotide,Drug,23172758,2013,P30DK084567,2009,2020,2013,2013P30DK084567,1214485,P30,DK,NIDDK,National Institute of Diabetes and Digestive and Kidney Diseases,National Institute of Diabetes and Digestive and Kidney Diseases,2
+Pasireotide,Drug,23172758,2013,R01DK044863,1999,2019,2013,2013R01DK044863,415606,R01,DK,NIDDK,National Institute of Diabetes and Digestive and Kidney Diseases,National Institute of Diabetes and Digestive and Kidney Diseases,2
+Pasireotide,Drug,23172758,2013,P30DK090728,2010,2019,2013,2013P30DK090728,1289514,P30,DK,NIDDK,National Institute of Diabetes and Digestive and Kidney Diseases,National Institute of Diabetes and Digestive and Kidney Diseases,2
+Pasireotide,Drug,24994926,2015,R01DK058816,2001,2020,2015,2015R01DK058816,451814,R01,DK,NIDDK,National Institute of Diabetes and Digestive and Kidney Diseases,National Institute of Diabetes and Digestive and Kidney Diseases,1
+Pasireotide,Drug,24994926,2015,P30DK090728,2010,2019,2015,2015P30DK090728,1298931,P30,DK,NIDDK,National Institute of Diabetes and Digestive and Kidney Diseases,National Institute of Diabetes and Digestive and Kidney Diseases,2
+Pasireotide,Drug,24994926,2015,R56DK044863,2015,2015,2015,2015R56DK044863,133837,R56,DK,NIDDK,National Institute of Diabetes and Digestive and Kidney Diseases,National Institute of Diabetes and Digestive and Kidney Diseases,1
+Pasireotide,Drug,21493671,2011,R01DK032234,2000,2010,2010,2010R01DK032234,434704,R01,DK,NIDDK,National Institute of Diabetes and Digestive and Kidney Diseases,National Institute of Diabetes and Digestive and Kidney Diseases,1
+Pasireotide,Drug,19910453,2010,R01DK032234,2000,2010,2010,2010R01DK032234,434704,R01,DK,NIDDK,National Institute of Diabetes and Digestive and Kidney Diseases,National Institute of Diabetes and Digestive and Kidney Diseases,1
+Pasireotide,Drug,19910453,2010,R01DK059953,2002,2006,2006,2006R01DK059953,733535,R01,DK,NIDDK,National Institute of Diabetes and Digestive and Kidney Diseases,National Institute of Diabetes and Digestive and Kidney Diseases,1
+Pasireotide,Drug,19910453,2010,T90DK070109,2004,2008,2008,2008T90DK070109,461598,T90,DK,NIDDK,National Institute of Diabetes and Digestive and Kidney Diseases,National Institute of Diabetes and Digestive and Kidney Diseases,1
+Pasireotide,Drug,27635672,2016,ZIADK053101,2009,2019,2016,2016ZIADK053101,859773,ZIA,DK,NIDDK,National Institute of Diabetes and Digestive and Kidney Diseases,National Institute of Diabetes and Digestive and Kidney Diseases,1
+Pasireotide,Drug,27635672,2016,ZIADK053200,2009,2019,2016,2016ZIADK053200,286590,ZIA,DK,NIDDK,National Institute of Diabetes and Digestive and Kidney Diseases,National Institute of Diabetes and Digestive and Kidney Diseases,1
+Pasireotide,Drug,32843370,2020,P30DK090728,2010,2019,2019,2019P30DK090728,1155877,P30,DK,NIDDK,National Institute of Diabetes and Digestive and Kidney Diseases,National Institute of Diabetes and Digestive and Kidney Diseases,3
+Pasireotide,Drug,24183675,2013,R56DK032234,2012,2012,2012,2012R56DK032234,136364,R56,DK,NIDDK,National Institute of Diabetes and Digestive and Kidney Diseases,National Institute of Diabetes and Digestive and Kidney Diseases,1
+Pasireotide,Drug,30033041,2018,ZIADK075122,2016,2019,2018,2018ZIADK075122,180991,ZIA,DK,NIDDK,National Institute of Diabetes and Digestive and Kidney Diseases,National Institute of Diabetes and Digestive and Kidney Diseases,1
+Pasireotide,Drug,21529145,2011,U19AI067798,2005,2020,2011,2011U19AI067798,5563319,U19,AI,NIAID,National Institute of Allergy and Infectious Diseases Extramural Activities,National Institute of Allergy and Infectious Diseases Extramural Activities,2
+Pasireotide,Drug,19580476,2009,U19AI067798,2005,2020,2009,2009U19AI067798,6899695,U19,AI,NIAID,National Institute of Allergy and Infectious Diseases Extramural Activities,National Institute of Allergy and Infectious Diseases Extramural Activities,3
+Pasireotide,Drug,23172758,2013,R01EB000305,2002,2009,2009,2009R01EB000305,781726,R01,EB,NIBIB,National Institute of Biomedical Imaging and Bioengineering,National Institute of Biomedical Imaging and Bioengineering,1
+Pasireotide,Drug,16940446,2006,Z01HD000642,1999,2008,2006,2006Z01HD000642,0,Z01,HD,NICHD,National Institute of Child Health and Human Development,National Institute of Child Health and Human Development,1
+Pasireotide,Drug,23807605,2013,ZIAHD008833,2009,2015,2013,2013ZIAHD008833,648636,ZIA,HD,NICHD,National Institute of Child Health and Human Development,National Institute of Child Health and Human Development,1
+Pasireotide,Drug,26671997,2016,ZIAHD008920,2012,2019,2016,2016ZIAHD008920,2657865,ZIA,HD,NICHD,National Institute of Child Health and Human Development,National Institute of Child Health and Human Development,1
+Pasireotide,Drug,33292741,2020,K08MH116267,2018,2021,2020,2020K08MH116267,185057,K08,MH,NIMH,National Institute of Mental Health,National Institute of Mental Health,1
